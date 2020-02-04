@@ -1,4 +1,5 @@
 # tdmsreader
+##UPDATE: THIS METHOD IS OUTDATED, USE PYTHON TO READ TDMS-FILES. For more info visit the info page of tdms-files on the National Instruments website.
 
 [![Build Status](https://travis-ci.org/msuefishlab/tdmsreader.svg?branch=master)](https://travis-ci.org/msuefishlab/tdmsreader)
 
